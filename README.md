@@ -6,12 +6,12 @@
 
 ## Hi there 👋,
 
-### I'm Mayur Mankar, I am a community guy who loves tech and see myself as product enthoziast.
+### I am Mayur Mankar, a 4th-year undergraduate student, majoring in Data Science and Engineering at Indian Institute of Science Education and Research Bhopal.
 -------
   
 ## 🧐 About
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
+- 🏄‍ Working on 3D Point Clouds at [GeoAI4Cities Lab, IISER Bhopal](https://sites.google.com/iiserb.ac.in/geoai/home?authuser=0)
 - 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
 - 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
 - 👯 And Many More...
