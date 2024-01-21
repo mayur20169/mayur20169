@@ -9,7 +9,7 @@
 ### I am Mayur Mankar, a 4th-year undergraduate student, majoring in Data Science and Engineering at Indian Institute of Science Education and Research Bhopal.
 -------
   
-## 🧐 About
+## 🧐 About Me
 
 -  Working on 3D Point Clouds at [GeoAI4Cities Lab, IISER Bhopal](https://sites.google.com/iiserb.ac.in/geoai/home?authuser=0)
 -  You can usually find me in my college library. 
