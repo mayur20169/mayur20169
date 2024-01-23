@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mayur25mankar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayur25mankar@gmail.com)](mailto:mayur25mankar@gmail.com)
 ---
 
-## Hi there 👋,
+## Hi there, Welcome to my Github 👋,
 
 ### I am Mayur Mankar, a 4th-year undergraduate student, majoring in Data Science and Engineering at Indian Institute of Science Education and Research Bhopal.
 -------
