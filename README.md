@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@mayurmankar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Mayur25mankar)](https://twitter.com/Mayur25mankar) [
 ![Linkedin Badge](https://img.shields.io/badge/-mayurmankar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-mankar-2452311b7/)](https://www.linkedin.com/in/mayur-mankar-2452311b7/)
 [![Gmail Badge](https://img.shields.io/badge/-mayur25mankar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayur25mankar@gmail.com)](mailto:mayur25mankar@gmail.com)
-![Github Pages](https://img.shields.io/badge/mayur20169.github.io-121013?style=for-the-badge&logo=github&logoColor=white&link=https://mayur20169.github.io/)(https://mayur20169.github.io/)
+![Github Pages](https://img.shields.io/badge/-mayur20169.github.io-121013?style=for-the-badge&logo=github&logoColor=white&link=https://mayur20169.github.io/)(https://mayur20169.github.io/)
 ---
 
 ## Hi there, Welcome to my Github 👋,
