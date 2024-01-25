@@ -4,6 +4,7 @@
 ![Linkedin Badge](https://img.shields.io/badge/-mayurmankar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-mankar-2452311b7/)](https://www.linkedin.com/in/mayur-mankar-2452311b7/)
 [![Gmail Badge](https://img.shields.io/badge/-mayur25mankar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayur25mankar@gmail.com)](mailto:mayur25mankar@gmail.com)
 https://mayur20169.github.io/
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)(https://mayur20169.github.io/)
 ---
 
 ## Hi there, Welcome to my Github 👋,
