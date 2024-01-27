@@ -14,7 +14,6 @@
 ## 🧐 About Me
 
 -  Working on 3D Point Clouds at [GeoAI4Cities Lab, IISER Bhopal](https://sites.google.com/iiserb.ac.in/geoai/home?authuser=0)
--  You can usually find me in my college library. 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
