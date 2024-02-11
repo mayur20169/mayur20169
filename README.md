@@ -8,7 +8,7 @@
 
 ## Hi there, Welcome to my Github 👋,
 
-### I am Mayur Mankar, a 4th-year undergraduate student, majoring in Data Science and Engineering at Indian Institute of Science Education and Research Bhopal.
+### I am Mayur Mankar, a 4th-year student, majoring in Data Science and Engineering at Indian Institute of Science Education and Research Bhopal.
 -------
   
 ## 🧐 About Me
